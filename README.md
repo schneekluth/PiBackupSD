@@ -1,12 +1,12 @@
 # PiBackupSD
-A little script to backup a sd card with progressbar. Creates an image file with date and given name.
+A little script to backup a sd card with a progressbar. Creates an image file with date and given name.
 
 ### Requirements
 Please install the following packages:
 + **pv** - for showing progress bar
 + **dd** - for generating image file
 + **lsblk** - grep filesize of inserted sd card
-+ **gzip** - for compressing imgage file
++ **gzip** - for compressing image file
 
 ### Instructions
 1. Edit `CARDSLOTNAME` and `OUTPUTPATH` in backup_sd.sh`to your needs.
