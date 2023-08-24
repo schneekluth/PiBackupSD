@@ -9,8 +9,8 @@ Please install the following packages:
 + **gzip** - for compressing image file
 
 ### Instructions
-1. Edit `CARDSLOTNAME` and `OUTPUTPATH` in backup_sd.sh`to your needs.
-2. Copy file to .local/bin/
+1. Edit `CARDSLOTNAME` and `OUTPUTPATH` in `backup_sd.sh` to your needs.
+2. Copy file to `.local/bin/`
 3. Run `backup_sd.sh` in your terminal
 4. Script will ask for filename and writes the image file to desired `OUTPUTPATH`
 
